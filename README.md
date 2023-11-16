@@ -14,13 +14,13 @@ EmoScan is a user-friendly Python tool that performs sentiment analysis on text 
 1. Install the required dependencies:
 
     ```bash
-    pip install -r requirements.txt
+    bash setup.sh
     ```
 
 2. Run the tool:
 
     ```bash
-    python sentiment_analysis_tool.py
+    python EmoScon.py
     ```
 
 3. Enter your text, click "Analyze Sentiment," and explore the emotional tone.
